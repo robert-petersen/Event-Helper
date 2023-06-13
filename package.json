@@ -1,0 +1,17 @@
+{
+  "name": "eventbot",
+  "version": "1.0.0",
+  "description": "A discord bot to plan events :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Petersen",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.1.4"
+  }
+}
