@@ -1,1 +1,1 @@
-# discordEventApp
+# Event Helper
