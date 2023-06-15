@@ -7,12 +7,27 @@ A bot to help discord servers and their users plan events and gatherings. Some o
 
 ## Content
 
+- [How to add Event Helper](how-to-add-event-helper-to-your-discord-server)
+- [Reporting Bugs](#reporting-bugs)
+- [Code Contributions](#code-contributions)
 - [Dependencies](#dependencies)
 - [Future Improvements](#future-improvements)
 - [Links](#links)
 
 <!-- --------------------------------------------------------------------------------------------To help see sections----------------- -->
 <br />
+
+## How to add Event Helper to your Discord server
+
+Work in progress :)
+
+## Reporting Bugs
+
+Work in progress :)
+
+## Code Contributions
+
+Work in progress :)
 
 ## Dependencies
 
