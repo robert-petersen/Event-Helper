@@ -8,6 +8,7 @@ A bot to help discord servers and their users plan events and gatherings. Offeri
 ## Content
 
 - [How to add Event Helper](how-to-add-event-helper-to-your-discord-server)
+- [How to use Event Helper](how-to-use-event-helper)
 - [Reporting Bugs](#reporting-bugs)
 - [Code Contributions](#code-contributions)
 - [Dependencies](#dependencies)
@@ -18,6 +19,10 @@ A bot to help discord servers and their users plan events and gatherings. Offeri
 <br />
 
 ## How to add Event Helper to your Discord server
+
+Work in progress :)
+
+## How to use Event Helper
 
 Work in progress :)
 
