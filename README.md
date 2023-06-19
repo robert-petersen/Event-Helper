@@ -44,6 +44,9 @@ A popular Node.js module that allows you to interact with the Discord API very e
 - Set up a dedicated server to run the bot
 - A section explaining how to add the bot to your server
 - A section to describe how to use the bots commands
+- Feature to create a temporary role for the event so the bot can ping a reminder before the event and so members can ping important information to members that attended the event (organizer can enter the number of days it stays up)
+- League of Legends custom games template
+- Watch-party on discord template & choose a movie or show embed
 
 <!-- --------------------------------------------------------------------------------------------To help see sections----------------- -->
 <br />
